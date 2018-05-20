@@ -1,0 +1,22 @@
+Movie Title: The Lion King
+Year: 1994
+IMDB rating: 8.5
+Rotten Tomatoes Rating: 93%
+Country: USA
+Language: English, Swahili, Xhosa, Zulu
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+
+-----OMDB Log Entry End-----
+
+Movie Title: Mr. Nobody
+Year: 2009
+IMDB rating: 7.9
+Rotten Tomatoes Rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+-----OMDB Log Entry End-----
+
